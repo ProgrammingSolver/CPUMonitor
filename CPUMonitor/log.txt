@@ -1,9 +1,0 @@
-[2023-04-28 13:07:24.734] [ResourceMonitorLog] [info] Program Started.
-[2023-04-28 13:07:24.735] [ResourceMonitorLog] [debug] CPU Check Time: 3
-[2023-04-28 13:07:24.735] [ResourceMonitorLog] [debug] Started checking CPU usage for 3 seconds.
-[2023-04-28 13:07:27.744] [ResourceMonitorLog] [debug] Finshed getting CPU usage over time.
-[2023-04-28 13:07:27.744] [ResourceMonitorLog] [debug] CPU usage averaged 9.879041324700205 over 3 seconds
-[2023-04-28 13:07:27.744] [ResourceMonitorLog] [debug] Started checking CPU usage for 3 seconds.
-[2023-04-28 13:07:30.750] [ResourceMonitorLog] [debug] Finshed getting CPU usage over time.
-[2023-04-28 13:07:30.750] [ResourceMonitorLog] [debug] CPU usage averaged 10.876560058448595 over 3 seconds
-[2023-04-28 13:07:30.750] [ResourceMonitorLog] [debug] Started checking CPU usage for 3 seconds.
